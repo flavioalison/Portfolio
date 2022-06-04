@@ -1,0 +1,13 @@
+Olá professor segue anexo os emails de login para teste do site e suas respectivas senhas:
+
+teste1@hotmail.com => 1234 
+
+teste2@gmail.com => abcd
+
+
+
+OBS: As únicas abas funcionais são "HOME", "Sobre Mim", "Fotos" e "Logout"
+
+Sendo que a ultima (logout) só irá aparecer no navbar enquanto o usuario estiver logado.
+
+
